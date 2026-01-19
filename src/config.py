@@ -1,6 +1,0 @@
-
-REDIS_HOST = "localhost"
-REDIS_PORT = 6379
-REDIS_CHANNEL_ORDERS = "orders"
-
-SOCKET_NAMESPACE = "/"
